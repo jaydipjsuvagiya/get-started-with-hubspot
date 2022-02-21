@@ -10,7 +10,7 @@ you can find compact guide of hubspot building block [here](https://developers.h
 - [Modules](https://developers.hubspot.com/docs/cms/building-blocks/modules)
 
  
-### HubSpot CMS Building Blocks
+### Languages and Technical Things
 - [HubL](https://developers.hubspot.com/docs/cms/hubl) (server side template rendering language)
 - [HubL supported Variables](https://developers.hubspot.com/docs/cms/hubl/variables)
 - [If/eles](https://developers.hubspot.com/docs/cms/hubl/if-statements) and [loops](https://developers.hubspot.com/docs/cms/hubl/for-loops)
